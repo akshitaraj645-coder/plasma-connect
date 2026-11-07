@@ -35,41 +35,6 @@
 
 ---
 
-## 🚀 Live Demo Walkthrough (For Hackathon Judges)
-
-The application includes a sticky **Hackathon Demo Bar** at the very top for effortless 1-click evaluation:
-
-1. **Step 1: Open the App**
-   - Simply open `index.html` in any modern web browser (Chrome, Edge, Firefox, Safari). No compilation or Node.js server needed.
-
-2. **Step 2: Trigger Sample Emergency SOS**
-   - Click the red **"🚨 Trigger Sample SOS"** button in the top demo bar.
-   - You'll hear the synthesized emergency pager sound and see a critical SOS broadcast created for **2 units of O+ Platelets at Manipal Hospital**.
-
-3. **Step 3: Switch to Donor Mode**
-   - Click **"🩸 Donor Mode"** in the demo bar.
-   - Notice that **Rahul Sharma (O+ Verified Donor)** immediately sees the critical emergency ping in his live feed!
-   - Click **"🩸 Respond & Screen Eligibility"**.
-   - Complete the 5-point questionnaire (Select *No*, *Yes*, *No*, *No*, *No*).
-   - Watch the live validation turn emerald: *"Safety Screening Passed: You are eligible to donate!"*
-   - Click **"✓ Confirm & Accept Donation Request"**.
-
-4. **Step 4: Real-time Notification & Live Coordination Chat**
-   - Hear the success chime!
-   - The **Emergency Coordination Hub** automatically opens.
-   - Send quick messages ("🚗 Driving to hospital. ETA 20 mins") and check the Bedside Handshake OTP (`4821`).
-
-5. **Step 5: Switch to Blood Bank / Hospital Mode**
-   - Click **"🏥 Blood Bank"** in the demo bar.
-   - View the live 8x5 Component Inventory Matrix. Click `+` or `-` to adjust unit counts.
-   - Scroll down to the **Donor Verification Queue** to review submitted donor applications and approve or issue badges.
-
-6. **Step 6: Explore Searchable Directory & Tools**
-   - Click **"🔍 Directory"** to filter donors and blood banks by group, radius, or verified status.
-   - Click **"🔬 Compatibility Matrix"** in the top bar to inspect blood compatibility across red cells vs plasma vs platelets.
-
----
-
 ## 📋 Comprehensive Questionnaire Specs Implemented
 
 ### 1. Donor Onboarding & Eligibility Form:
@@ -125,10 +90,3 @@ hemo-pulse-blood-finder/
 ```
 
 ---
-
-## 💻 How to Run Locally
-
-1. Open File Explorer to:
-   `C:\Users\Akshita Raj\.gemini\antigravity\scratch\hemo-pulse-blood-finder\`
-2. Double-click `index.html` to open it in your preferred web browser.
-3. You can also deploy this directory directly to GitHub Pages, Vercel, or Netlify with zero configuration.
